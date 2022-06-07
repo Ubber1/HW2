@@ -17,6 +17,10 @@ else:
 
 if a==b:
     print("равнобедренный")
+elif a==c:
+    print("равнобедренный")
+elif c==b:
+    print("равнобедренный")
 elif a==b==c:
     print("равносторонний")
 else:
